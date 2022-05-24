@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "DOLOX, INC."
+    organization = "gh-actions-demo"
 
     workspaces {
       name = "gh-actions-demo"
